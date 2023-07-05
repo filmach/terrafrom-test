@@ -9,6 +9,6 @@ metadata:
   namespace: monitoring
 
 spec:
-  loadBalancerIP: 1.2.3.4
+  loadBalancerIP: 5.6.7.8
   sessionAffinity: ClientIP
   type: LoadBalancer
